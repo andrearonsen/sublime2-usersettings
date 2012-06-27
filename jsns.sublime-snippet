@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+var ${1:namespace} = ${1:namespace} || {};
+]]></content>
+  <tabTrigger>ns</tabTrigger>
+  <scope>source.js</scope>
+</snippet>
+
