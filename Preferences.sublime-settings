@@ -1,0 +1,10 @@
+{
+  // "font_face": "MesloLGM-DZ",
+	"font_size": 20.0,
+	"tab_size": 2,
+	"translate_tabs_to_spaces": true,
+  "theme": "Soda Dark.sublime-theme",
+  "highlight_modified_tabs": true,
+  "bold_folder_labels": true,
+  "show_full_path": true
+}

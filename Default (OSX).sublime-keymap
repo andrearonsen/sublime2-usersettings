@@ -1,0 +1,7 @@
+[
+  { "keys": ["ctrl+k", "ctrl+space"], "command": "set_mark" },
+  { "keys": ["ctrl+k", "ctrl+a"], "command": "select_to_mark" },
+  { "keys": ["ctrl+k", "ctrl+w"], "command": "delete_to_mark" },
+  { "keys": ["ctrl+k", "ctrl+x"], "command": "swap_with_mark" },
+  { "keys": ["ctrl+k", "ctrl+g"], "command": "clear_bookmarks", "args": {"name": "mark"} }
+]
