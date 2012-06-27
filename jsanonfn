@@ -1,9 +1,0 @@
-<snippet>
-	<content><![CDATA[
-		(function (${1:args}) {
-			$3
-		}(${2:params}));
-]]></content>
-	<tabTrigger>aron</tabTrigger>
-	<!-- <scope>source.javascript</scope> -->
-</snippet>
